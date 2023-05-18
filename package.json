@@ -2,7 +2,6 @@
   "homepage": "http://walfindobayusetya.github.io/my-portfolio",
   "name": "personal-portfolio",
   "version": "0.1.0",
-  "homepage": "https://lyannul.github.io/personal-portfolio",
   "private": true,
   "dependencies": {
     "@lottiefiles/react-lottie-player": "^3.4.7",
