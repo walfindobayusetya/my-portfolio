@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import Walfindo from "../../assests/walfindo.png";
+import Walfindo from "../../assests/walfindo.jpg";
 import { BiMedal, BiUser, BiFolder } from "react-icons/bi";
 
 const About = () => {
